@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: rgb(21, 80, 131);
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #fcfcfc;
+   
+    justify-content: center;
+    position: relative;
+}
+.header{
+    width: 100%; 
+    height: 50px; 
+    background-color: white; 
+    display: flex;     
+    justify-content: space-between;
+}
+.titulo{
+    margin-left: 400px;
+}
+.nome{
+    margin-left: 400px;
+    
+}
+.campo{
+    margin: center ;
+    color: black;
+}
+.problemas{
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color:  black; 
+    background-color: white;
+}
+.areas{
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    background-color: white;   
+}
+.bloco{
+    margin: center;
+    color:black
+}
+.caixa{
+    margin-left: 400px;
+}
+.botão { 
+    margin-left: 400px;
+}
+.img {
+   
+    width: 82px;
+}
+.titulo {
+   color: black;
+}
+.area {
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px;
+}
+footer {
+    background-color: white;
+    width: 100%; 
+    height: 50px; 
+
+
+}
